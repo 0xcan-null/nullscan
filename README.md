@@ -27,3 +27,10 @@ python3 nullscan.py -t scanme.nmap.org
 
 # Özel port aralığı ve thread sayısı ile tarama
 python3 nullscan.py -t 127.0.0.1 -p 1-5000 -w 150
+# Nullscan
+
+Bu proje ... amacıyla geliştirilmiş bir araçtır.
+
+## Kurulum ve Çalıştırma
+bash
+python nullscan.py
